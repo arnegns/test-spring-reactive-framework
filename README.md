@@ -5,7 +5,6 @@ It comes with Spring Webflux.
 - asynchronous and non blocking
 - handling massive numbers of concurrent connections
 - subscriber and publisher model
-- actually it _does not_ support jdbc, jpa and nosql
 
 
 ## reactor-core
