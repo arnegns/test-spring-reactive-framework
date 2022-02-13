@@ -1,0 +1,8 @@
+GET http://localhost:8080/fluxstream
+Accept: application/stream+json
+
+###
+GET http://localhost:8080/flux
+Accept: application/json
+
+
